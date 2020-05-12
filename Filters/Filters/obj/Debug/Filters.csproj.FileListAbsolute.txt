@@ -1,0 +1,10 @@
+D:\ComputerGraphicLab1\Filters\Filters\bin\Debug\Filters.exe.config
+D:\ComputerGraphicLab1\Filters\Filters\bin\Debug\Filters.exe
+D:\ComputerGraphicLab1\Filters\Filters\bin\Debug\Filters.pdb
+D:\ComputerGraphicLab1\Filters\Filters\obj\Debug\Filters.csprojAssemblyReference.cache
+D:\ComputerGraphicLab1\Filters\Filters\obj\Debug\Filters.Form1.resources
+D:\ComputerGraphicLab1\Filters\Filters\obj\Debug\Filters.Properties.Resources.resources
+D:\ComputerGraphicLab1\Filters\Filters\obj\Debug\Filters.csproj.GenerateResource.cache
+D:\ComputerGraphicLab1\Filters\Filters\obj\Debug\Filters.csproj.CoreCompileInputs.cache
+D:\ComputerGraphicLab1\Filters\Filters\obj\Debug\Filters.exe
+D:\ComputerGraphicLab1\Filters\Filters\obj\Debug\Filters.pdb
